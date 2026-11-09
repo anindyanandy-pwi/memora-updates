@@ -10,7 +10,7 @@ Everything Memora keeps stays on your phone and is never uploaded by Memora:
 - the text read from photos and documents, and the text of voice notes;
 - your searches, your Today list and what you mark done, snoozed or not a task.
 
-It is stored in Memora's own encrypted storage. The key is kept in your phone's secure hardware.
+Messages, text and your searches are kept in Memora's own encrypted database; its key is kept in your phone's secure hardware. Copies of files, photos and voice notes are kept in Memora's private app storage, which other apps cannot open and which Android encrypts with your phone's lock. None of it is included in Google's backup or copied to a new phone; Memora's own backup file is the way to move it.
 
 **Message notifications.** Memora reads the notifications of your chat, SMS and email apps (such as WhatsApp, Telegram, Signal, Messenger, Messages, Gmail and Outlook), and of messages other apps mark as a chat or an email: the sender, the chat or subject, the message text and attached files. One-time passwords (OTPs) are never kept, and card and Aadhaar numbers are hidden. For all other apps Memora does not read what a notification says; it only notes that one arrived, to check that capture still works. You can choose chats Memora skips, and forget what it kept from a chat.
 
