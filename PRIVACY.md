@@ -24,9 +24,10 @@ Messages, text and your searches are kept in Memora's own encrypted database; it
   - roughly how many searches;
   - whether capture is working;
   - your phone brand and Android version;
+  - Memora's version and the week you installed it;
   - a random number made on your phone.
 
-  No messages, names, contacts, files or search words. Turning it off deletes the random number. IP addresses are not stored.
+  No messages, names, contacts, files or search words. Turning it off deletes the random number. IP addresses are not stored. It goes to Memora's own counter, run on Cloudflare.
 - **Sync with your own PC** (if you pair one): your memories travel encrypted between your own devices.
 - **Backup file** (if you make one, or turn on the weekly backup): it is saved only to the place or folder you choose (your PC, a pen drive or your own cloud drive's folder), locked with a 24-word recovery code that only you have. Memora keeps only a key that can lock backups, never one that can open them. Memora never uploads a backup.
 - **Reports you send:** a problem report, a crash report or a performance report goes only if you send it yourself from your email app, after you have seen everything in it. Crash reports contain technical details only.
